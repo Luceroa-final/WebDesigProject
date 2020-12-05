@@ -1,6 +1,8 @@
 body {
 	background-color: black;
 	color: white;
+	    font-family: Helvetica, Sans-Serif;
+
 }
 
 .my_csss {
@@ -8,16 +10,21 @@ body {
 }
 
 .main-title {
+	padding-top:50px;
 	font-size: 40px;
 	text-align: center;
 	font-weight: bold;
 }
 
 .second-title {
-	color: blue;
+	padding-top:50px;
+	color: orangered;
+	font-size:30px    ;
 	text-align: center
 }
 
 .main-description {
-	text-anchor: center
+	padding:50px 250px;
+	font-size: 30px    ;
+	text-align    : center
 }
