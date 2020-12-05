@@ -1,3 +1,6 @@
+body {
+	background-color: black
+}
 
 .my_csss {
 	font-size: 20px
@@ -10,8 +13,9 @@
 }
 
 .second-title {
-	color:blue;
-text-align: center}
+	color: blue;
+	text-align: center
+}
 
 .main-description {
 	text-anchor: center
